@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi everybody
+This is my first repository.Welcome to my repository, I will share the fun of my software learning here. As a beginner, I hope to get help from the boss.
+
+
 
 <!--
 **zhengxinyan10/zhengxinyan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
